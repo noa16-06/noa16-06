@@ -27,7 +27,7 @@ I'm a 14-year-old developer passionate about IT security and systems-level progr
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdveDJ3djV0c21vbzUwaDYzbWF0c3MweW92OWl3NzJrNXV2aXA5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UgHjYPGfeVLDEVzVt/giphy.gif" alt="Detective Conan" width="420" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWsxdGdkYnI0ZDVkZnR4azY1MG5iMjQzaWo3NTRxdGd1OXRnbTY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif" alt="Detective Conan" width="420" />
 </td>
 </tr>
 </table>
@@ -56,8 +56,3 @@ I'm a 14-year-old developer passionate about IT security and systems-level progr
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noa16-06/noa16-06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noa16-06/noa16-06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noa16-06/noa16-06/output/pacman-contribution-graph.svg">
-</picture>
