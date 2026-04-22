@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20,29&text=noa16-06&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&textBg=false" width="100%" />
-
-<h3 align="center">Security-focused developer · Homelab enthusiast · Lifelong learner</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+noa16-06;Security-focused+developer;Homelab+enthusiast;Lifelong+learner" alt="Typing SVG" />
+</div>
 
 <br />
+
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
 
 ## About
 
@@ -10,8 +14,15 @@ I'm a 14-year-old developer with a strong interest in IT security and systems pr
 
 - 🔐 Focus: Cybersecurity, networking, cryptography
 - 🛠️ Currently learning: C/C++, MySQL, network protocols
-- 🖥️ Running a homelab on Ubuntu
+- 🖥️ Running a homelab on Fedora Linux & macOS
 - 🎵 Sports & music in my off hours
+
+</td>
+<td width="45%" align="center" valign="center">
+  <img src="https://media.giphy.com/media/l3vR1cASqFGgMcJMI/giphy.gif" alt="Detective Conan" width="260" style="border-radius: 12px;" />
+</td>
+</tr>
+</table>
 
 <br />
 
