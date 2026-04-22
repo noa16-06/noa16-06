@@ -55,19 +55,3 @@ I'm a 14-year-old developer passionate about IT security and systems-level progr
 </p>
 
 ---
-
-### 🟡 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noa16-06/noa16-06/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noa16-06/noa16-06/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/noa16-06/noa16-06/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> ⚙️ **Setup:** Add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in your profile repo to auto-generate this.
-
----
-
-<div align="center">
-  <sub>Built with curiosity · noa16-06</sub>
-</div>
