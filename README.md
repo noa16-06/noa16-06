@@ -19,7 +19,7 @@ I'm a 14-year-old developer with a strong interest in IT security and systems pr
 
 </td>
 <td width="45%" align="center" valign="center">
-  <img src="[https://media.giphy.com/media/l3vR1cASqFGgMcJMI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y4d2FhMGV6YXg1ZnBwNm05MDY1emJlcGp3ODR4c2ZsNTczZXJ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UgHjYPGfeVLDEVzVt/giphy.gif)" alt="Detective Conan" width="560" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/l3vR1cASqFGgMcJMI/giphy.gif" alt="Detective Conan" width="260" style="border-radius: 12px;" />
 </td>
 </tr>
 </table>
