@@ -22,7 +22,7 @@ I'm a 14-year-old developer passionate about IT security and systems-level progr
 
 - 🔐 **Focus:** Cybersecurity, networking, cryptography
 - 🛠️ **Learning:** C/C++, MySQL, network protocols
-- 🖥️ **Setup:** Homelab on Fedora Linux & macOS
+- 🖥️ **Setup:** Homelab on Ubuntu  & Fedora 
 - 🎵 **Off hours:** Sports & music
 
 </td>
