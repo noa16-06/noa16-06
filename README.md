@@ -4,7 +4,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=2500&pause=1500&color=4F8EF7&center=true&vCenter=true&width=500&lines=noa16-06" alt="Name" />
 
-  <p><em>Security-focused developer · 14 y/o · Homelab runner</em></p>
+  <p><em>Jr. developer · 14 y/o · Homelab runner</em></p>
 
   <img src="https://komarev.com/ghpvc/?username=noa16-06&label=Profile+views&color=4F8EF7&style=flat-square" alt="profile views" />
 
