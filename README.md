@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a 14-year-old developer passionate about IT security and systems-level programming. I like to understand how things work by taking them apart — whether that's a network protocol, a piece of malware, or a Linux subsystem.
+I'm a 14-year-old tech enthusiast passionate about IT security and systems-level programming. I like to understand how things work by taking them apart — whether that's a network protocol, a piece of malware, or a Linux subsystem.
 
 - 🔐 **Focus:** Cybersecurity, networking, cryptography
 - 🛠️ **Learning:** C/C++, MySQL, network protocols
