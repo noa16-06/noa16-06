@@ -10,6 +10,16 @@
 
 </div>
 
+  <!-- Socials -->
+<br/>
+  <a href="https://x.com/milchjunge1606">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="mailto:milchjunge16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F8EF7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div
 ---
 
 <table border="0" align="center">
