@@ -1,75 +1,70 @@
-
-
-Noa16 06 readme · MD
+Noa16 06 readme v2 · MD
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=900&color=00D9A6&center=true&vCenter=true&width=600&lines=root%40noa16-06%3A~%23+whoami;jr.+developer+%7C+15y%2Fo+%7C+homelab+operator;root%40noa16-06%3A~%23+uptime;online+and+still+compiling" alt="terminal typing banner" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=noa16-06&label=connections&color=00D9A6&style=flat-square" alt="profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00D9A6&height=130&section=header&text=ACCESS%20GRANTED&fontSize=42&fontColor=00FF9C&fontAlignY=45&desc=SUBJECT:%20NOA16-06&descAlignY=68&descSize=18&descColor=8b949e" alt="access granted banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=decrypting+profile...;dossier+unlocked" alt="decrypting" />
 </div>
-<br>
 ```
-noa16-06@github
-----------------
-OS:        Ubuntu / Fedora (dual homelab)
-Shell:     bash + a lot of curiosity
-Focus:     cybersecurity, networking, cryptography
-Learning:  C, C++, MySQL, network protocols
-Uptime:    15 years, still compiling
-Off-hours: sports, music
+╔════════════════════════════════════╗
+║  CLASSIFIED FILE — CLEARANCE: ROOT  ║
+╠════════════════════════════════════╣
+║ CODENAME    : noa16-06              ║
+║ AGE         : 15                    ║
+║ DESIGNATION : jr. developer         ║
+║ STATUS      : ACTIVE                ║
+║ LOCATION    : ▓▓▓▓▓▓▓▓ [REDACTED]   ║
+║ MISSION     : take it apart, find   ║
+║               out how it works      ║
+╚════════════════════════════════════╝
 ```
  
-> I take things apart to understand how they work — a network protocol, a piece of malware, a Linux subsystem. Most of that happens in the homelab.
+<details>
+<summary><strong>▸ boot log</strong></summary>
+```
+[00:00:01] booting homelab (ubuntu / fedora)...
+[00:00:03] mounting /dev/curiosity...
+[00:00:06] scanning known_hosts...
+[00:00:09] loading interests: cybersecurity, networking, cryptography
+[00:00:12] background_process: sports, music
+[00:00:14] ACCESS: GRANTED
+```
  
+</details>
 ---
  
-### `~/skills`
+### skill matrix
  
-<table border="0" align="center">
-<tr>
-<td align="center">
-**languages**
+```
+CORE       →  Python · C · C++ · HTML · CSS
+LEARNING   →  advanced C++ · MySQL · network protocols
+INFRA      →  Docker · Linux · Git · VS Code
+```
  
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="26" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26" />
-</td>
-<td align="center">
-**database**
- 
+&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="26" />
-</td>
-<td align="center">
-**infra & tools**
- 
+&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" />
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="26" />
-</td>
-</tr>
-</table>
+</div>
 ---
  
-### `~/var/log/status`
- 
-```bash
-$ ss -tulpn | grep LISTEN
-PROTO  SERVICE     STATE     ENDPOINT
-tcp    mail        LISTEN    milchjunge16@gmail.com
-tcp    x.com       LISTEN    @milchjunge1606
-```
+### secure comms
  
 <div align="center">
-<a href="mailto:milchjunge16@gmail.com"><img src="https://img.shields.io/badge/mail-connect-00D9A6?style=flat-square&logo=gmail&logoColor=000000&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://x.com/milchjunge1606"><img src="https://img.shields.io/badge/x-connect-00D9A6?style=flat-square&logo=x&logoColor=000000&labelColor=0d1117" /></a>
+<a href="mailto:milchjunge16@gmail.com"><img src="https://img.shields.io/badge/-mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
+<a href="https://x.com/milchjunge1606"><img src="https://img.shields.io/badge/-x-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
  
 </div>
 ---
  
-### `~/proc/stats`
+### surveillance footage
  
 <p align="center">
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noa16-06&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&include_all_commits=true" alt="GitHub stats" />
@@ -80,6 +75,6 @@ tcp    x.com       LISTEN    @milchjunge1606
 <img src="https://streak-stats.demolab.com/?user=noa16-06&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 <div align="center">
-<sub>root@noa16-06:~# exit</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9A6,100:0d1117&height=60&section=footer&text=CONNECTION%20TERMINATED&fontSize=16&fontColor=0d1117&fontAlignY=60" alt="footer" />
 </div>
  
