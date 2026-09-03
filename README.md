@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E9A,50:7B5CFF,100:00D9A6&height=130&section=header&text=ACCESS%20GRANTED&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=SUBJECT:%20NOA16-06&descAlignY=68&descSize=18&descColor=ffffffcc" alt="access granted banner" />
 
-<img src="assets/matrix-rain.gif" width="700" alt="matrix rain" />
+<img src="matrix-rain.gif" width="700" alt="matrix rain" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=decrypting+profile...;dossier+unlocked" alt="decrypting" />
 </div>
@@ -83,6 +83,6 @@
 </p>
 
 <div align="center">
-<img src="assets/matrix-rain.gif" width="700" alt="matrix rain footer" />
+<img src="matrix-rain.gif" width="700" alt="matrix rain footer" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9A6,50:7B5CFF,100:FF2E9A&height=60&section=footer&text=CONNECTION%20TERMINATED&fontSize=16&fontColor=ffffff&fontAlignY=60" alt="footer" />
 </div>
