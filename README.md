@@ -5,17 +5,16 @@
 </div>
 
 <pre>
-╔════════════════════════════════════╗
-║  CLASSIFIED FILE — CLEARANCE: ROOT  ║
-╠════════════════════════════════════╣
-║ CODENAME    : noa16-06              ║
-║ AGE         : 15                    ║
-║ DESIGNATION : jr. developer         ║
-║ STATUS      : ACTIVE                ║
-║ LOCATION    : ▓▓▓▓▓▓▓▓ [REDACTED]   ║
-║ MISSION     : take it apart, find   ║
-║               out how it works      ║
-╚════════════════════════════════════╝
+╔════════════════════════════════════════╗
+║   CLASSIFIED FILE — CLEARANCE: ROOT     ║
+╠════════════════════════════════════════╣
+║ CODENAME    : noa16-06                  ║
+║ DESIGNATION : jr. developer             ║
+║ STATUS      : ACTIVE                    ║
+║ LOCATION    : ▓▓▓▓▓▓▓▓ [REDACTED]       ║
+║ MISSION     : take it apart, find out   ║
+║               how it works              ║
+╚════════════════════════════════════════╝
 </pre>
 
 <details>
