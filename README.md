@@ -1,9 +1,11 @@
-Noa16 06 readme v2 · MD
+
+
+Noa16 06 readme v3 · MD
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00D9A6&height=130&section=header&text=ACCESS%20GRANTED&fontSize=42&fontColor=00FF9C&fontAlignY=45&desc=SUBJECT:%20NOA16-06&descAlignY=68&descSize=18&descColor=8b949e" alt="access granted banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=decrypting+profile...;dossier+unlocked" alt="decrypting" />
 </div>
-```
+<pre>
 ╔════════════════════════════════════╗
 ║  CLASSIFIED FILE — CLEARANCE: ROOT  ║
 ╠════════════════════════════════════╣
@@ -15,29 +17,27 @@ Noa16 06 readme v2 · MD
 ║ MISSION     : take it apart, find   ║
 ║               out how it works      ║
 ╚════════════════════════════════════╝
-```
+</pre>
  
 <details>
 <summary><strong>▸ boot log</strong></summary>
-```
+<pre>
 [00:00:01] booting homelab (ubuntu / fedora)...
 [00:00:03] mounting /dev/curiosity...
 [00:00:06] scanning known_hosts...
 [00:00:09] loading interests: cybersecurity, networking, cryptography
 [00:00:12] background_process: sports, music
 [00:00:14] ACCESS: GRANTED
-```
- 
+</pre>
 </details>
----
+<hr>
+<h3>skill matrix</h3>
  
-### skill matrix
- 
-```
+<pre>
 CORE       →  Python · C · C++ · HTML · CSS
 LEARNING   →  advanced C++ · MySQL · network protocols
 INFRA      →  Docker · Linux · Git · VS Code
-```
+</pre>
  
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" />
@@ -53,18 +53,15 @@ INFRA      →  Docker · Linux · Git · VS Code
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="26" />
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="26" />
 </div>
----
- 
-### secure comms
+<hr>
+<h3>secure comms</h3>
  
 <div align="center">
 <a href="mailto:milchjunge16@gmail.com"><img src="https://img.shields.io/badge/-mail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
 <a href="https://x.com/milchjunge1606"><img src="https://img.shields.io/badge/-x-000000?style=for-the-badge&logo=x&logoColor=00FF9C" /></a>
- 
 </div>
----
- 
-### surveillance footage
+<hr>
+<h3>surveillance footage</h3>
  
 <p align="center">
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noa16-06&show_icons=true&theme=github_dark&border_radius=8&hide_border=true&include_all_commits=true" alt="GitHub stats" />
